@@ -10,4 +10,9 @@ body {
       background-color: gray;
       color: blue
     }
-  
+  .koolkoalas {
+    background-color: blue;
+    border:orange 15px solid;
+    font-size: 88px;
+    text-align:center;
+  }
