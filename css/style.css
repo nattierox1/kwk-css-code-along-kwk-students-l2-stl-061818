@@ -1,1 +1,24 @@
 /* add CSS class and element and selectors here */
+body {
+      background-color: lightblue;
+      font-size: 150%;
+    }
+
+
+
+.myClass {
+      background-color: gray;
+      color: blue
+    }
+  .koolkoalas {
+    background-color: blue;
+    border:orange 15px solid;
+    font-size: 88px;
+    text-align:center;
+  }
+  
+  color: purple;
+  #tophersClass {
+    
+  } 
+  
